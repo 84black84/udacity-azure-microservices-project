@@ -28,7 +28,7 @@ def feeds():
     response = requests.get(settings.API_URL + '/getAdvertisements')
     posts = response.json()
 
-    for key, value in posts.items():
+    for key, value in posts[0].items():
         print("key,value: " + key + ", " + value)
 
     #     feed.add(post.title,
