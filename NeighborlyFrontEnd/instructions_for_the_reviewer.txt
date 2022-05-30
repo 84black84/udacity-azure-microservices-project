@@ -1,0 +1,11 @@
+Accidentally I submitted my project solution without the following text for the reviewer.
+
+Once again in this ND there is any inconsistency between the course material and the final project. 
+Again there is a topic in the project that was not covered during the course, namely, event hubs.
+I assume that there were some changes in the course material but the project was not updated, 
+I can see that also from commented code that it is not relevant anymore.
+However, in order for me to be sure that I did not miss anything in the project's requirements, 
+I assumed that instead of event hubs you are referring to the event grid that is indeed covered during the course, 
+so I implemented accordingly the relevant function handler.
+
+Thanks for teh understanding!
